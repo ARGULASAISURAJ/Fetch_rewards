@@ -21,4 +21,4 @@ Preprocessing of files and joining to extract a output file for staging table ha
 Staging output has the staging table excel file.
 
 # Analytical_queries.md
-Analytical queries can be found in both report and 
+Analytical queries can be found in both report and this file.
